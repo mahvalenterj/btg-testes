@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>btg_test</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
@@ -25,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\btg-testes-auto\btg-testes-auto.csproj" />
+    <ProjectReference Include="..\src\ResistenceSocialNetwork.csproj" />
   </ItemGroup>
 
 </Project>
